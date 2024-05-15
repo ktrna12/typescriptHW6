@@ -1,0 +1,1 @@
+# typescriptHW6
