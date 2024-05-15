@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "removeComments": true,
+    "outDir": "js",
+    "sourceMap": true,
+    "outFile": "main.js",
+    "module": "CommonJS",
+    "lib": [
+      "es2015",
+      "dom"
+    ]
+  }
+}
